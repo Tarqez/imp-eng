@@ -1,5 +1,5 @@
 {
-	"service": "off",
+	"service": "on",
 	"serviceon": "DAS",
 	"serviceoff": "Changed Yes!"
 }
